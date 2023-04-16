@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "This is a Nodejs Progrmm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kashan Adnan",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.3"
+  }
+}
